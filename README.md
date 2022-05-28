@@ -37,12 +37,16 @@ Total Blocking Time is the sum of all time periods between FCP and Time to Inter
 Largest Contentful Paint marks the time at which the largest text or image is painted.
 Cumulative Layout Shift measures the movement of visible elements within the viewport.
 
+I calculated the performance and load time of this website using these two tools Lighthouse Chrome DevTools
+
 Mobile Reload Time:
 
 ![Mobile Reload Time](https://user-images.githubusercontent.com/78148873/170808688-bdca8dec-fedb-42ae-a754-004d074d61a9.png)
 
 
 Desktop Reload Time:
+
+Page Load time of this website in desktop is in the range of 0.6 s to 0.7s.
 
 ![Desktop Reload Time](https://user-images.githubusercontent.com/78148873/170808736-bf151a06-9414-47a5-be88-dd5c3ed47f87.png)
 
